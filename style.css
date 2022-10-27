@@ -1,0 +1,31 @@
+body{
+  padding:20px;
+  font-family:monospace;
+}
+
+#pageTitle{
+  text-align:center;
+  color: #ff8c00;
+}
+
+body{
+  background-image: url(https://www.curleyskeyshop.com/wp-content/uploads/2020/10/GettyImages-1165575754.jpg);
+  background-size: cover;
+}
+#links{
+  margin:40px auto;
+  max-width:700px;
+}
+#links > a{
+  display:block;
+  text-align:center;
+  border:1px solid #333;
+  padding:10px;
+  text-decoration:none;
+  color:#ff8c00;
+  margin-bottom:40px;
+}
+
+#links > a:hover{
+  background:#ff8c00;
+  color:#ffffff;
